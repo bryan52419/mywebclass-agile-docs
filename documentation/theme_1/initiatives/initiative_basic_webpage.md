@@ -45,7 +45,7 @@ Team:
 2. Web Designer - responsible for designing the webpage.
 3. Web Developer - responsible for developing the webpage.
 4. Content Creator - responsible for creating content for the webpage.
-5. SEO Specialist - responsible for optimizing the webpage for search engin
+5. SEO Specialist - responsible for optimizing the webpage for search engine
 
 # List epics related to this theme
 1. [Epic Basic Webpage](https://github.com/bryan52419/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/Epics/epic_basic_webpage.md)
