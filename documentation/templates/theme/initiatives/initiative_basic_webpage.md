@@ -36,7 +36,7 @@ Team: 1. Project Manager - responsible for overseeing the project.
       2. Web Designer - responsible for designing the webpage.
       3. Web Developer - responsible for developing the webpage.
       4. Content Creator - responsible for creating content for the webpage.
-      5. SEO Specialist - responsible for optimizing the webpage for search engines.
+      5. SEO Specialist - responsible for optimizing the webpage for search engin
 
 # List epics related to this theme
 1. [Epic 1](../../../../documentation/templates/theme/initiatives/epics/epic_template.md)
