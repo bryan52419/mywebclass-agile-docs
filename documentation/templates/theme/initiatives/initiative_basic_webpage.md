@@ -39,4 +39,4 @@ Team: 1. Project Manager - responsible for overseeing the project.
       5. SEO Specialist - responsible for optimizing the webpage for search engin
 
 # List epics related to this theme
-1. [Epic 1](../../../../documentation/templates/theme/initiatives/epics/epic_template.md)
+1. [Epic Basic Webpage]("C:\Users\bryan\PycharmProjects\mywebclass-agile-docs\documentation\templates\theme\initiatives\epics\epic_basic_webpage.md")
