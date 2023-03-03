@@ -15,4 +15,5 @@ Acceptance Criteria:
 
 
 # List Stories related to this theme
-1. [Stories 1](../../../../../../documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+1. [Story Customer 2]("C:\Users\bryan\PycharmProjects\mywebclass-agile-docs\documentation\templates\theme\initiatives\epics\stories\story_customer2.md")
+2. [Story User]("C:\Users\bryan\PycharmProjects\mywebclass-agile-docs\documentation\templates\theme\initiatives\epics\stories\story_user.md")
