@@ -6,6 +6,8 @@ Description: The task involves identifying and implementing relevant keywords, m
 
 Effort Estimate: 8 hours
 
+Tools: HTML and meta tags for on-page optimization. Google Analytics for tracking website traffic and user behavior. Google Search Console for monitoring search engine performance and identifying opportunities for improvement. Keyword research tools such as Google Keyword Planner, Ahrefs, SEMrush, or Moz for identifying relevant keywords and evaluating search volume and competition levels. Content management systems such as WordPress or Drupal may have SEO plugins or modules that can assist with optimization.
+
 Assigned To: Full-Stack Developer
 
 Priority: High
