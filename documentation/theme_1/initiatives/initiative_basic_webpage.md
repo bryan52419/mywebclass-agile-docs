@@ -2,15 +2,17 @@
 
 Description: Our initiative is to create a basic webpage for a customer that is looking to establish an online presence for their personal or professional brand. The webpage will serve as a platform for the customer to showcase their work, skills, or services to potential clients or employers.
 
-Goals: 1. Create a professional online presence for the customer.
-       2. Showcase the customer's work, skills, or services.
-       3. Attract potential clients or employers.
+Goals: 
+1. Create a professional online presence for the customer.
+2. Showcase the customer's work, skills, or services.
+3. Attract potential clients or employers.
 
 Scope: The initiative will involve creating a basic webpage with information about the customer, including their biography, portfolio, resume, and contact information
 
-Outcomes: 1. Increased online visibility for the customer.
-          2. Increased client or employer engagement with the customer.
-          3. Increased opportunities for the customer.
+Outcomes: 
+1. Increased online visibility for the customer.
+2. Increased client or employer engagement with the customer.
+3. Increased opportunities for the customer.
 
 Deliverables: 
 1. Basic webpage design and development.
