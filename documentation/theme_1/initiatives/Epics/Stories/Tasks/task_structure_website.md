@@ -6,6 +6,8 @@ Description: This task involves reviewing the website content and structuring it
 
 Effort Estimate: 4 hours
 
+Tools: HTML tags for headings and paragraphs. Web development platforms such as WordPress, Wix, or Squarespace may have their own tools for structuring content with headings and subheadings.
+
 Assigned To: Content Writer
 
 Priority: Medium
