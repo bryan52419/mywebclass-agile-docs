@@ -14,5 +14,5 @@ Acceptance Criteria:
 
 
 # List Stories related to this theme
-1. [Stories Customer 1]("C:\Users\bryan\PycharmProjects\mywebclass-agile-docs\documentation\theme_1\initiatives\Epics\Stories\story_customer1.md")
-2. [Stories User]("C:\Users\bryan\PycharmProjects\mywebclass-agile-docs\documentation\theme_1\initiatives\Epics\Stories\story_user.md")
+1. [Stories Customer 1](https://github.com/bryan52419/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/Epics/Stories/story_customer1.md)
+2. [Stories User](https://github.com/bryan52419/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/Epics/Stories/story_user.md)
