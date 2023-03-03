@@ -22,9 +22,10 @@ Risks:
 
 Estimated Effort: 4-6 weeks
 
-Business Value: 1. Increased online presence and visibility for the customer's personal or professional brand
-                2. Improved user experience for potential clients or employers
-                3. Potential for increased business opportunities and revenue for the customer
+Business Value: 
+1. Increased online presence and visibility for the customer's personal or professional brand
+2. Improved user experience for potential clients or employers
+3. Potential for increased business opportunities and revenue for the customer
 
 Priority: High
 
