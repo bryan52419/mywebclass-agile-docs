@@ -48,4 +48,4 @@ Team:
 5. SEO Specialist - responsible for optimizing the webpage for search engin
 
 # List epics related to this theme
-1. [Epic Basic Webpage]("C:\Users\bryan\PycharmProjects\mywebclass-agile-docs\documentation\theme_1\initiatives\Epics\epic_basic_webpage.md")
+1. [Epic Basic Webpage](https://github.com/bryan52419/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/Epics/epic_basic_webpage.md)
