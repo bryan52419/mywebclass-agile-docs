@@ -25,4 +25,6 @@ Business Value: 1. Increased online presence and visibility for the customer's p
 Priority: High
 
 # List stories related to this theme
-1. [Story 1](../../../../../documentation/templates/theme/initiatives/epics/stories/story_template.md)
+1. [Story Customer 1]("C:\Users\bryan\PycharmProjects\mywebclass-agile-docs\documentation\templates\theme\initiatives\epics\stories\story_customer1.md")
+2. [Story Customer 2]("C:\Users\bryan\PycharmProjects\mywebclass-agile-docs\documentation\templates\theme\initiatives\epics\stories\story_customer2.md")
+3. [Story User]("C:\Users\bryan\PycharmProjects\mywebclass-agile-docs\documentation\templates\theme\initiatives\epics\stories\story_user.md")
