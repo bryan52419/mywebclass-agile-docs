@@ -1,12 +1,12 @@
 Task Title: Implement SEO optimizations for webpage
 
-User Story: [As a customer, I want my webpage to be optimized for search engines to increase my online visibility.
+User Story: As a customer, I want my webpage to be optimized for search engines to increase my online visibility.
 
 Description: The task involves identifying and implementing relevant keywords, meta tags, and descriptions to optimize the webpage for search engines. The acceptance criteria include verifying that the webpage appears higher in search engine results for relevant search queries, such as the customer's name or industry keywords. Dependencies may include researching industry-specific keywords and determining the customer's target audience.
 
 Effort Estimate: 8 hours
 
-Assigned To: Web developer
+Assigned To: Full-Stack Developer
 
 Priority: High
 
