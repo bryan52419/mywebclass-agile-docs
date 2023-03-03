@@ -6,6 +6,8 @@ Description: The task involves creating a page title that is clear, concise, and
 
 Effort Estimate: 2 hours
 
+Tools: HTML. CSS. JavaScript. Google Analytics. Google Search Console. Keyword research tools (e.g. Google Keyword Planner, SEMrush, Ahrefs)
+
 Assigned To: SEO specialist
 
 Priority: High
